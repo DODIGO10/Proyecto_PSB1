@@ -1,4 +1,4 @@
-				ARDUINOLITE
+ARDUINOLITE
 
 En este proyecto se realizará un análisis léxico y sintáctico a partir de una gramática diseñada para simplificar funciones escritas en Arduino, permitiendo identificar su estructura y facilitar su optimización.
 
